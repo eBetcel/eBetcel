@@ -6,6 +6,5 @@
 
 <p>  
   <a href="https://github.com/eBetcel/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=eBetcel&&show_icons=true&theme=radical"/>
   </a>
 </p>
